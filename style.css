@@ -231,7 +231,7 @@ section {
 	display: flex;
 	align-items: center;
 	overflow: hidden;
-	padding: 0.5rem 1rem;
+	padding: 0.5rem 0.7rem;
 }
 
 .header__middle {
