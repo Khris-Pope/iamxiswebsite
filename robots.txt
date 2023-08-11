@@ -1,0 +1,4 @@
+Sitemap: https://theiamxis.com.ng/sitemap.xml
+
+User-agent: *
+Allow: /
