@@ -626,7 +626,7 @@ th{
 
 .homepage-headline{
    padding-top: 9rem;
-   font-family: var(--medium-font);
+   font-family: var(--body-font);
    font-size: 4.35rem;
    text-align: center;
    color: var(--background-color);
