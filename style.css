@@ -639,7 +639,7 @@ th{
 }
 
 .iamxis-shop-headline{
-   font-family: var(--medium-font);
+   font-family: var(--body-font);
    font-size: 4rem;
    text-align: center;
    color: var(--background-color);
