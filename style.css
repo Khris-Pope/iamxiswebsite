@@ -621,7 +621,7 @@ th{
    height: 57rem;
    background-repeat: no-repeat;
    background-position: center center;
-   background-size: cover;
+   background-size: contain;
 }
 
 .homepage-headline{
