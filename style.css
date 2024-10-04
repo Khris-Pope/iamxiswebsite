@@ -1149,7 +1149,7 @@ footer {
 
    .iamxislabel-hero{
    background-repeat: no-repeat;
-   background-size: contain;
+   background-size: cover;
 }
 
 @media (max-width: 1000px) {
