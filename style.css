@@ -884,7 +884,7 @@ select:invalid {
 }
 
 .panel h3 {
-   font-family: var(--medium-font);
+   font-family: var(--body-font);
    text-transform: capitalize;
    font-size: 1.8rem;
 
