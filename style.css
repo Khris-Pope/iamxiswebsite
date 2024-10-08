@@ -581,7 +581,7 @@ th{
 
 .iamxisskin-hero{
    background-image: linear-gradient(rgba(30 30 30 / 29%), rgb(0 0 0 / 44%)),
-                     url('img/skincare2.jpg');
+                     url('img/beauty2.jpg');
    height: 57rem;
    background-repeat: no-repeat;
    background-position: center center;
@@ -1163,7 +1163,7 @@ footer {
 
    .iamxisskin-hero{
       background-image: linear-gradient(rgba(30 30 30 / 18%), rgb(56 56 56 / 50%)),
-                     url('img/skincare.jpg');
+                     url('img/beauty.jpg');
    }
 
    .iamxisbeauty-hero{
